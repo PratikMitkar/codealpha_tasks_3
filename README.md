@@ -47,14 +47,14 @@ Ensure you have a compatible sound font (`.sf2` file) installed. FluidSynth uses
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/PratikMitkar/codealpha_tasks_3.git
+cd codealpha_tasks_3
 ```
 
 ### 2. Run the Program
 Execute the script in a Python environment:
 ```bash
-python music_generator.py
+python AI_Music_Generation_assignment_3.py
 ```
 
 ### 3. Select Instruments
